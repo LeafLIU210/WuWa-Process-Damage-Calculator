@@ -9,7 +9,7 @@ setuptools==68.2.2
 wheel==0.41.2
 # How to use
 Calculator.xlsx  
-此为参数详细说明，请与代码对照阅读
+此为参数详细说明，请与代码对照阅读  
 parameters.xlsx
 单个动作的伤害计算相关参数表格  
 calculator-1.py
